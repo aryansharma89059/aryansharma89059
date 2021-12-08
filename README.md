@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
   <strong>🏆 GitHub Profile Trophy</strong>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="himanshurajora's Top Languages" src="https://github-profile-trophy.vercel.app/?username=himanshurajora&theme=radical" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="aryansharma89059's Top Languages" src="https://github-profile-trophy.vercel.app/?username=aryansharma89059" /></a>
   <br/>
